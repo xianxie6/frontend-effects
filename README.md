@@ -2,7 +2,7 @@
 
 46 个让网页显得高级的前端动效，每个都能在页面里直接上手试，并附一条可以复制给 AI 的提示词。
 
-**在线打开 → https://xianxie6.github.io/frontend-effects/**　·　作者 X：[@Xian0063](https://x.com/Xian0063)
+**[在线打开 →](https://xianxie6.github.io/frontend-effects/)**　·　[分享到 X](https://x.com/intent/post?text=%E5%89%8D%E7%AB%AF%E6%95%88%E6%9E%9C%E8%AF%8D%E5%85%B8%EF%BC%9A46%20%E4%B8%AA%E8%AE%A9%E7%BD%91%E9%A1%B5%E6%98%BE%E5%BE%97%E9%AB%98%E7%BA%A7%E7%9A%84%E5%89%8D%E7%AB%AF%E5%8A%A8%E6%95%88%EF%BC%8C%E6%AF%8F%E4%B8%AA%E9%83%BD%E8%83%BD%E7%9B%B4%E6%8E%A5%E4%B8%8A%E6%89%8B%E8%AF%95%EF%BC%8C%E8%BF%98%E9%99%84%E5%8F%AF%E5%A4%8D%E5%88%B6%E7%BB%99%20AI%20%E7%9A%84%E6%8F%90%E7%A4%BA%E8%AF%8D%20%F0%9F%91%87&url=https%3A%2F%2Fxianxie6.github.io%2Ffrontend-effects%2F&via=Xian0063)　·　作者 X：[@Xian0063](https://x.com/Xian0063)
 
 ![前端效果词典预览](docs/preview.png)
 
